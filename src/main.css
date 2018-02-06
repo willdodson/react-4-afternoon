@@ -41,7 +41,7 @@ nav {
   display: flex;
   justify-content: space-between;
   border-bottom: solid 1px #222;
-  background: #143A56;
+  background: darkred;
   color: white;
   height: 35px;
 }
@@ -50,7 +50,7 @@ nav {
   display: flex;
   justify-content: flex-end;
   width: calc(100% - 75px);
-  background: lightgray;
+  background:lightpink;
   padding: 0 75px 0 0;
 }
 
